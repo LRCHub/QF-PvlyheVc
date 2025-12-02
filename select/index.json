@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "MIRA",
+  "base_artist": "Kanaria",
+  "createdAt": "2025-12-02T15:51:12.068458Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mira",
+      "artist": "How to Disappear Completely",
+      "has_synced": false,
+      "path": "select/01_Mira_How_to_Disappear_Completely.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mira Mare",
+      "artist": "Claudio Baglioni",
+      "has_synced": true,
+      "path": "select/02_Mira_Mare_Claudio_Baglioni.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mira mare - Bootleg Live Version",
+      "artist": "Francesco De Gregori",
+      "has_synced": false,
+      "path": "select/03_Mira_mare_-_Bootleg_Live_Version_Francesco_De_Gregori.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Eu Sei (Na Mira)",
+      "artist": "Marisa Monte",
+      "has_synced": true,
+      "path": "select/04_Eu_Sei_(Na_Mira)_Marisa_Monte.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mira La Vida (Unplugged) (En Vivo)",
+      "artist": "Julieta Venegas",
+      "has_synced": true,
+      "path": "select/05_Mira_La_Vida_(Unplugged)_(En_Vivo)_Julieta_Venegas.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Azul Se Mira",
+      "artist": "Adriel Favela",
+      "has_synced": true,
+      "path": "select/06_Azul_Se_Mira_Adriel_Favela.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mira Como Estoy Sufriendo",
+      "artist": "Los Acosta",
+      "has_synced": false,
+      "path": "select/07_Mira_Como_Estoy_Sufriendo_Los_Acosta.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mira Como Estoy Sufriendo (Album Version)",
+      "artist": "Los Acosta",
+      "has_synced": false,
+      "path": "select/08_Mira_Como_Estoy_Sufriendo_(Album_Version)_Los_Acosta.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mira nada mas (con La Banda Estrellas de Sinaloa de Germán Lizarraga)",
+      "artist": "Pedro Infante",
+      "has_synced": true,
+      "path": "select/09_Mira_nada_mas_(con_La_Banda_Estrellas_de_Sinaloa_de_Germán_Lizarraga)_Pedro_Infante.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mira Nada Mas",
+      "artist": "Pedro Infante",
+      "has_synced": true,
+      "path": "select/10_Mira_Nada_Mas_Pedro_Infante.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mira Nada Mas (Remastered)",
+      "artist": "Pedro Infante",
+      "has_synced": true,
+      "path": "select/11_Mira_Nada_Mas_(Remastered)_Pedro_Infante.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mira Nada Más",
+      "artist": "Pedro Infante",
+      "has_synced": true,
+      "path": "select/12_Mira_Nada_Más_Pedro_Infante.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mira",
+      "artist": "Banda Machos",
+      "has_synced": true,
+      "path": "select/13_Mira_Banda_Machos.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mira la Chica",
+      "artist": "Gipsy Kings",
+      "has_synced": true,
+      "path": "select/14_Mira_la_Chica_Gipsy_Kings.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mira La Chica",
+      "artist": "The Gipsy Kings",
+      "has_synced": true,
+      "path": "select/15_Mira_La_Chica_The_Gipsy_Kings.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Mira la Itana Mora",
+      "artist": "Gipsy Kings",
+      "has_synced": true,
+      "path": "select/16_Mira_la_Itana_Mora_Gipsy_Kings.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MIRA",
+      "artist": "Kanaria",
+      "has_synced": false,
+      "path": "select/pl_01_MIRA_Kanaria.txt"
+    }
+  ]
+}
